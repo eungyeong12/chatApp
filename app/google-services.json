@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803554712950",
+    "project_id": "chatapp-36e1c",
+    "storage_bucket": "chatapp-36e1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803554712950:android:f94f0053fa80ced707ae57",
+        "android_client_info": {
+          "package_name": "jo.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOBBq23JtfC3j6HFvM6grzfdF7pSujPF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
